@@ -183,8 +183,8 @@
 		 <artifactId>maven-surefire-plugin</artifactId>
 		 <version>3.0.0-M3</version>
 		 <configuration>
-		      <testFailureIgnore>true</testfailureIgnore>
-		      <shutdown>kill</shutdown> <! -- Use it if required-->
+		      <testFailureIgnore>true</testFailureIgnore>
+		      <shutdown>kill</shutdown> <!-- Use it if required-->
 		      </configuration>
 		  </plugin>
 		<!-- CODE COVERAGE -->
